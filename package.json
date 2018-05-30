@@ -1,0 +1,26 @@
+{
+  "name": "misthos",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^4.9.1",
+    "materialize-css": "^1.0.0-alpha.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.5",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-form": "^7.3.0",
+    "redux-thunk": "^2.2.0"
+  }
+}
